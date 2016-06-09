@@ -1,3 +1,3 @@
 puts "hello, world!"
 
-puts "hoge"
+puts "fuga"
